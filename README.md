@@ -20,7 +20,7 @@ Data from https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
 **2.4. Feature Selection:** Using the MDI method, all selected features on the previous section were considered.
 
-**2.5. Machine Learning:** Different machine learning algorithms were trained and evaluted through balanced accuracy, precision, recall and F1 metrics. Among all the four methods considered (Dummy Classification, Random Forest, XGBoost and Multinomial Logistic Regression), Random Forest had the best performance.
+**2.5. Machine Learning:** Different machine learning algorithms were trained and evaluated through balanced accuracy, precision, recall and F1 metrics. Among all the four methods considered (Dummy Classification, Random Forest, XGBoost and Multinomial Logistic Regression), Random Forest had the best performance.
 
 **2.6. Hyperparemeter Tuning:** Tuning hyperparameters for Random Forest Classifier, considering number of trees, maximum depth of tree,
 minimum number of samples required to be at a leaf node and minimum number of samples required to split an internal node. The chosen method was Grid Search Cross-Validation.
